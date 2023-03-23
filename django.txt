@@ -1,0 +1,4 @@
+for upgrade pip use :python -m pip install --upgrade pip
+for venv : venv\scripts\activate
+zamani ke server run mishavad ba in __init__.py ham run mishavad
+base_dir motaghaieri ast ke adres proje dar on gharar dare
