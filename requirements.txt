@@ -2,3 +2,7 @@ asgiref>3.2,<3.3
 Django
 pytz
 sqlparse
+pillow
+django-extensions
+django-debug-toolbar
+django-summernote
